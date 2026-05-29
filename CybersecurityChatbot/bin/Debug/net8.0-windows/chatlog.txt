@@ -1,0 +1,269 @@
+5/28/2026 7:04:30 PM: BOT: 🛡️ Welcome to the C.A.C Cybersecurity Awareness Chatbot!
+5/28/2026 7:04:30 PM: BOT: Hello lutho! I'm here to help you stay safe online in South Africa.
+5/28/2026 7:04:30 PM: BOT: Type 'help' to see what I can do, or ask me about cybersecurity topics!
+5/28/2026 7:04:46 PM: USER: hello
+5/28/2026 7:04:46 PM: BOT: Hello lutho! 👋 How can I help you stay safe online?
+5/28/2026 7:04:55 PM: BOT: 🔐 Enable two-factor authentication for better security.
+5/28/2026 7:04:56 PM: BOT: 🔐 Enable two-factor authentication for better security.
+5/28/2026 7:04:59 PM: BOT: 🦠 Keep antivirus software updated.
+5/28/2026 7:05:09 PM: USER: malware
+5/28/2026 7:05:09 PM: BOT: 🦠 Run regular system scans for protection.
+5/28/2026 7:09:19 PM: BOT: 🛡️ ═══════════════════════════════════════════════════ ═══
+5/28/2026 7:09:19 PM: BOT:       WELCOME TO THE C.A.C CYBERSECURITY CHATBOT
+5/28/2026 7:09:19 PM: BOT: 🛡️ ═══════════════════════════════════════════════════════
+5/28/2026 7:09:19 PM: BOT: ✨ Hello Sino! ✨ I'm your personal cybersecurity guardian.
+5/28/2026 7:09:19 PM: BOT: 🇿🇦 Protecting South African citizens from online threats is my mission!
+5/28/2026 7:09:19 PM: BOT: 
+5/28/2026 7:09:19 PM: BOT: 🎯 I can teach you about:
+5/28/2026 7:09:19 PM: BOT:    🔐 Strong passwords    🎣 Phishing scams
+5/28/2026 7:09:19 PM: BOT:    🦠 Malware prevention  🌐 VPN protection
+5/28/2026 7:09:19 PM: BOT:    ⚠️  Scam spotting      👁️  Privacy tips
+5/28/2026 7:09:19 PM: BOT:    🌐 Safe browsing       📱 Social media security
+5/28/2026 7:09:19 PM: BOT: 
+5/28/2026 7:09:19 PM: BOT: 💬 Type 'help' to see all commands or just ask me anything about cybersecurity!
+5/28/2026 7:09:19 PM: BOT: ✨ Let's start your journey to becoming cyber-safe! ✨
+5/28/2026 7:10:37 PM: BOT: 🛡️ Welcome to the C.A.C Cybersecurity Awareness Chatbot!
+5/28/2026 7:10:37 PM: BOT: Hello LUTHO! I'm here to help you stay safe online in South Africa.
+5/28/2026 7:10:37 PM: BOT: Type 'help' to see what I can do, or ask me about cybersecurity topics!
+5/28/2026 7:10:41 PM: BOT: 🎣 Never click unknown email links or attachments.
+5/28/2026 7:10:45 PM: BOT: 🔐 Create passwords with at least 12 characters!
+5/28/2026 7:10:48 PM: BOT: 🦠 Malware can damage or steal your information.
+5/28/2026 7:10:49 PM: BOT: 🌐 VPNs help protect your online privacy.
+5/28/2026 7:10:54 PM: USER: hello
+5/28/2026 7:10:54 PM: BOT: Hello LUTHO! 👋 How can I help you stay safe online?
+5/28/2026 7:11:00 PM: USER: how are you
+5/28/2026 7:11:00 PM: BOT: I'm functioning well! Ready to help you with cybersecurity tips! 🤖
+5/28/2026 7:11:10 PM: BOT: ⚠️ Never send money to unknown individuals online.
+5/28/2026 7:13:08 PM: BOT: 🛡️ Welcome to the C.A.C Cybersecurity Awareness Chatbot!
+5/28/2026 7:13:08 PM: BOT: Hello lutho! I'm here to help you stay safe online in South Africa.
+5/28/2026 7:13:08 PM: BOT: Type 'help' to see what I can do, or ask me about cybersecurity topics!
+5/28/2026 7:13:13 PM: BOT: 🎣 Never click unknown email links or attachments.
+5/28/2026 7:13:14 PM: BOT: 🔐 Avoid reusing passwords across accounts.
+5/28/2026 7:13:23 PM: USER: Malware
+5/28/2026 7:13:23 PM: BOT: 🦠 Run regular system scans for protection.
+5/28/2026 7:16:00 PM: BOT:  Welcome to the C.A.C Cybersecurity Awareness Chatbot!
+5/28/2026 7:16:00 PM: BOT: Hello lutho! I'm here to help you stay safe online in South Africa.
+5/28/2026 7:16:00 PM: BOT: Type 'help' to see what I can do, or ask me about cybersecurity topics!
+5/28/2026 7:16:02 PM: BOT:  Look for urgent or threatening language - it's a common phishing tactic!
+5/28/2026 7:16:08 PM: BOT:  Enable two-factor authentication for better security.
+5/28/2026 7:16:11 PM: BOT:  Run regular system scans for protection.
+5/28/2026 7:16:14 PM: BOT:  VPNs are useful on public Wi-Fi networks.
+5/28/2026 7:16:19 PM: USER: quit
+5/28/2026 7:16:19 PM: BOT: I can help with phishing, passwords, malware, VPNs, and scams. Type 'help' to see all options!
+5/28/2026 7:16:32 PM: USER: help
+5/28/2026 7:16:32 PM: BOT: 📚 Here's what you can ask me about:
+5/28/2026 7:16:32 PM: BOT: • Password safety - Type 'password'
+5/28/2026 7:16:32 PM: BOT: • Phishing protection - Type 'phishing'
+5/28/2026 7:16:32 PM: BOT: • Malware prevention - Type 'malware'
+5/28/2026 7:16:32 PM: BOT: • VPN usage - Type 'vpn'
+5/28/2026 7:16:32 PM: BOT: • Scam detection - Type 'scam'
+5/28/2026 7:16:32 PM: BOT: • Type 'more' for additional tips on any topic!
+5/28/2026 7:16:43 PM: USER: VPN
+5/28/2026 7:16:43 PM: BOT:  A VPN encrypts your internet connection.
+5/28/2026 7:21:57 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:21:57 PM: BOT:    WELCOME TO THE CYBERSECURITY AWARENESS CHATBOT
+5/28/2026 7:21:57 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:21:57 PM: BOT: Hello LUTHO! I am your Cybersecurity Awareness Assistant.
+5/28/2026 7:21:57 PM: BOT: I am here to help you stay safe online.
+5/28/2026 7:21:57 PM: BOT: What would you like to know about today?
+5/28/2026 7:21:57 PM: BOT: 
+5/28/2026 7:21:57 PM: BOT: ────────────────────────────────────────────────────────────
+5/28/2026 7:21:57 PM: BOT: Here is what you can ask me about:
+5/28/2026 7:21:57 PM: BOT: • Password safety tips
+5/28/2026 7:21:57 PM: BOT: • Phishing attacks
+5/28/2026 7:21:57 PM: BOT: • Malware protection
+5/28/2026 7:21:57 PM: BOT: • VPN usage
+5/28/2026 7:21:57 PM: BOT: • Scam detection
+5/28/2026 7:21:57 PM: BOT: • Privacy protection
+5/28/2026 7:21:57 PM: BOT: • Safe browsing habits
+5/28/2026 7:21:57 PM: BOT: • Social media security
+5/28/2026 7:21:57 PM: BOT: 
+5/28/2026 7:21:57 PM: BOT: You can also ask: 'How are you?', 'What is your purpose?', 'Help'
+5/28/2026 7:21:57 PM: BOT: ────────────────────────────────────────────────────────────
+5/28/2026 7:21:57 PM: BOT: Type 'quit' or 'exit' to end the conversation.
+5/28/2026 7:21:57 PM: BOT: 
+5/28/2026 7:21:57 PM: BOT: Is there a specific topic you would like to learn about?
+5/28/2026 7:22:11 PM: BOT: PASSWORD SAFETY: Avoid personal information. Your birthday, pet's name, or 'password123' are the first things hackers try. Get creative.
+5/28/2026 7:22:17 PM: BOT: MALWARE PREVENTION: In South Africa, the 'BokBok' malware targeted major banks. Always verify before installing any banking apps.
+5/28/2026 7:23:24 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:23:25 PM: BOT:    WELCOME TO THE CYBERSECURITY AWARENESS CHATBOT
+5/28/2026 7:23:25 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:23:25 PM: BOT: Hello IVIWE BK! I am your Cybersecurity Awareness Assistant.
+5/28/2026 7:23:25 PM: BOT: I am here to help you stay safe online.
+5/28/2026 7:23:25 PM: BOT: What would you like to know about today?
+5/28/2026 7:23:25 PM: BOT: 
+5/28/2026 7:23:25 PM: BOT: ────────────────────────────────────────────────────────────
+5/28/2026 7:23:25 PM: BOT: Here is what you can ask me about:
+5/28/2026 7:23:25 PM: BOT: • Password safety tips
+5/28/2026 7:23:25 PM: BOT: • Phishing attacks
+5/28/2026 7:23:25 PM: BOT: • Malware protection
+5/28/2026 7:23:25 PM: BOT: • VPN usage
+5/28/2026 7:23:25 PM: BOT: • Scam detection
+5/28/2026 7:23:25 PM: BOT: • Privacy protection
+5/28/2026 7:23:25 PM: BOT: • Safe browsing habits
+5/28/2026 7:23:25 PM: BOT: • Social media security
+5/28/2026 7:23:25 PM: BOT: 
+5/28/2026 7:23:25 PM: BOT: You can also ask: 'How are you?', 'What is your purpose?', 'Help'
+5/28/2026 7:23:25 PM: BOT: ────────────────────────────────────────────────────────────
+5/28/2026 7:23:25 PM: BOT: Type 'quit' or 'exit' to end the conversation.
+5/28/2026 7:23:25 PM: BOT: 
+5/28/2026 7:23:25 PM: BOT: Is there a specific topic you would like to learn about?
+5/28/2026 7:23:38 PM: BOT: MALWARE PREVENTION: If your computer suddenly slows down, shows pop-ups, or redirects your browser, run a malware scan immediately.
+5/28/2026 7:23:49 PM: BOT: PASSWORD SAFETY: Fun Fact: '123456' and 'password' are still the most common passwords. Do not be an easy target.
+5/28/2026 7:23:49 PM: BOT: MALWARE PREVENTION: In South Africa, the 'BokBok' malware targeted major banks. Always verify before installing any banking apps.
+5/28/2026 7:23:50 PM: BOT: VPN PROTECTION: Always use a VPN at coffee shops, airports, hotels, and other public Wi-Fi spots. Public networks are not secure.
+5/28/2026 7:23:54 PM: BOT: PHISHING PROTECTION: Did you know? 91 percent of cyberattacks start with a phishing email. Never click links from unknown senders.
+5/28/2026 7:23:56 PM: BOT: PASSWORD SAFETY: Never reuse passwords. If one account gets hacked, all your accounts become vulnerable. Use unique passwords for each.
+5/28/2026 7:23:57 PM: BOT: MALWARE PREVENTION: If your computer suddenly slows down, shows pop-ups, or redirects your browser, run a malware scan immediately.
+5/28/2026 7:23:59 PM: BOT: VPN PROTECTION: In South Africa, ISPs can legally monitor your traffic. A VPN prevents them from seeing what websites you visit.
+5/28/2026 7:24:00 PM: BOT: SCAM AWARENESS: Job offer scams: If they ask for money upfront for training or background checks, it is a scam.
+5/28/2026 7:24:19 PM: BOT: PHISHING PROTECTION: RED FLAG: Urgent language like 'Your account will be closed in 24 hours' is a common phishing tactic to create panic.
+5/28/2026 7:24:28 PM: BOT: MALWARE PREVENTION: If your computer suddenly slows down, shows pop-ups, or redirects your browser, run a malware scan immediately.
+5/28/2026 7:24:43 PM: BOT: SCAM AWARENESS: Take a breath. Scammers create urgency. Legitimate companies give you time to verify information.
+5/28/2026 7:24:50 PM: BOT: VPN PROTECTION: A VPN will not make you completely anonymous, but it adds a crucial layer of privacy and security.
+5/28/2026 7:24:52 PM: BOT: MALWARE PREVENTION: Regular backups save lives. Use the 3-2-1 rule: 3 copies, 2 different media types, 1 offsite backup.
+5/28/2026 7:24:52 PM: BOT: PASSWORD SAFETY: Avoid personal information. Your birthday, pet's name, or 'password123' are the first things hackers try. Get creative.
+5/28/2026 7:24:53 PM: BOT: PHISHING PROTECTION: Look for spelling mistakes and poor grammar - legitimate companies proofread their communications.
+5/28/2026 7:29:51 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:29:51 PM: BOT:    WELCOME TO THE CYBERSECURITY AWARENESS CHATBOT
+5/28/2026 7:29:51 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:29:51 PM: BOT: Hello iviwe! I am your Cybersecurity Awareness Assistant.
+5/28/2026 7:29:51 PM: BOT: I am here to help you stay safe online.
+5/28/2026 7:29:51 PM: BOT: What would you like to know about today?
+5/28/2026 7:29:51 PM: BOT: 
+5/28/2026 7:29:51 PM: BOT: ────────────────────────────────────────────────────────────
+5/28/2026 7:29:51 PM: BOT: Here is what you can ask me about:
+5/28/2026 7:29:51 PM: BOT: • Password safety tips
+5/28/2026 7:29:51 PM: BOT: • Phishing attacks
+5/28/2026 7:29:51 PM: BOT: • Malware protection
+5/28/2026 7:29:51 PM: BOT: • VPN usage
+5/28/2026 7:29:51 PM: BOT: • Scam detection
+5/28/2026 7:29:51 PM: BOT: • Privacy protection
+5/28/2026 7:29:51 PM: BOT: • Safe browsing habits
+5/28/2026 7:29:51 PM: BOT: • Social media security
+5/28/2026 7:29:51 PM: BOT: 
+5/28/2026 7:29:51 PM: BOT: You can also ask: 'How are you?', 'What is your purpose?', 'Help'
+5/28/2026 7:29:51 PM: BOT: ────────────────────────────────────────────────────────────
+5/28/2026 7:29:51 PM: BOT: Type 'quit' or 'exit' to end the conversation.
+5/28/2026 7:29:51 PM: BOT: 
+5/28/2026 7:29:51 PM: BOT: Is there a specific topic you would like to learn about?
+5/28/2026 7:29:54 PM: BOT: PASSWORD SAFETY: Never save passwords in your browser. Use a dedicated password manager instead - they are much more secure.
+5/28/2026 7:29:55 PM: BOT: PASSWORD SAFETY: Create a passphrase: Combine 4 random words like 'PurpleDinosaurCoffeeTable' - it is long and easy to remember.
+5/28/2026 7:29:56 PM: BOT: PASSWORD SAFETY: Never save passwords in your browser. Use a dedicated password manager instead - they are much more secure.
+5/28/2026 7:29:57 PM: BOT: MALWARE PREVENTION: Cryptojacking malware uses your computer to mine cryptocurrency without your knowledge. Watch for slow performance.
+5/28/2026 7:34:11 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:11 PM: BOT: Hello lutho! I am your Cybersecurity Awareness Assistant.
+5/28/2026 7:34:11 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:11 PM: BOT: 
+5/28/2026 7:34:11 PM: BOT: Click a topic button below or type 'help' to get started!
+5/28/2026 7:34:11 PM: BOT: 
+5/28/2026 7:34:13 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:14 PM: BOT: TOPIC: PHISHING PROTECTION
+5/28/2026 7:34:14 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:14 PM: BOT: In South Africa, banks will never ask for your PIN or OTP via email or SMS. Hang up and call them directly.
+5/28/2026 7:34:14 PM: BOT: 
+5/28/2026 7:34:14 PM: BOT: Type 'more' for additional phishing protection tips!
+5/28/2026 7:34:14 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:14 PM: BOT: TOPIC: PHISHING PROTECTION
+5/28/2026 7:34:14 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:14 PM: BOT: PRO TIP: Hover over links before clicking to see the actual URL. If it looks suspicious, do not click.
+5/28/2026 7:34:14 PM: BOT: 
+5/28/2026 7:34:14 PM: BOT: Type 'more' for additional phishing protection tips!
+5/28/2026 7:34:15 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:15 PM: BOT: TOPIC: PASSWORD SAFETY
+5/28/2026 7:34:15 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:15 PM: BOT: STRONG PASSWORD FORMULA: Use 12 or more characters with uppercase, lowercase, numbers, AND symbols. Example: Coffee$Dog2@Sun
+5/28/2026 7:34:15 PM: BOT: 
+5/28/2026 7:34:15 PM: BOT: Type 'more' for additional password safety tips!
+5/28/2026 7:34:20 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:20 PM: BOT: TOPIC: MALWARE PREVENTION
+5/28/2026 7:34:20 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:20 PM: BOT: Pop-up ads saying 'Your computer is infected. Click here to fix' are scams. Close them immediately.
+5/28/2026 7:34:20 PM: BOT: 
+5/28/2026 7:34:20 PM: BOT: Type 'more' for additional malware prevention tips!
+5/28/2026 7:34:24 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:24 PM: BOT: TOPIC: VPN PROTECTION
+5/28/2026 7:34:24 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:24 PM: BOT: Free VPNs often sell your data. You are the product. Invest in a reputable paid VPN for real privacy.
+5/28/2026 7:34:24 PM: BOT: 
+5/28/2026 7:34:24 PM: BOT: Type 'more' for additional VPN information!
+5/28/2026 7:34:29 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:29 PM: BOT: TOPIC: MALWARE PREVENTION
+5/28/2026 7:34:29 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:29 PM: BOT: Free antivirus? Windows Defender built into Windows 10 and 11 is actually very good. Just keep it updated.
+5/28/2026 7:34:29 PM: BOT: 
+5/28/2026 7:34:29 PM: BOT: Type 'more' for additional malware prevention tips!
+5/28/2026 7:34:35 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:35 PM: BOT: TOPIC: PASSWORD SAFETY
+5/28/2026 7:34:35 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:35 PM: BOT: Change important passwords every 3 months, especially for banking, email, and social media accounts.
+5/28/2026 7:34:35 PM: BOT: 
+5/28/2026 7:34:35 PM: BOT: Type 'more' for additional password safety tips!
+5/28/2026 7:34:39 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:39 PM: BOT: TOPIC: SCAM AWARENESS
+5/28/2026 7:34:39 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:39 PM: BOT: The accidental payment scam: Someone accidentally sends you money, then asks you to return it. The original payment is fake.
+5/28/2026 7:34:39 PM: BOT: 
+5/28/2026 7:34:39 PM: BOT: Type 'more' for additional scam prevention tips!
+5/28/2026 7:34:47 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:47 PM: BOT: TOPIC: PHISHING PROTECTION
+5/28/2026 7:34:47 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:34:47 PM: BOT: RED FLAG: Urgent language like 'Your account will be closed in 24 hours' is a common phishing tactic to create panic.
+5/28/2026 7:34:47 PM: BOT: 
+5/28/2026 7:34:47 PM: BOT: Type 'more' for additional phishing protection tips!
+5/28/2026 7:35:16 PM: USER: phishing
+5/28/2026 7:35:16 PM: BOT: Hi lutho! Ready to learn about cybersecurity? Click a topic button to get started!
+5/28/2026 7:35:24 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:24 PM: BOT: TOPIC: PHISHING PROTECTION
+5/28/2026 7:35:24 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:24 PM: BOT: PRO TIP: Hover over links before clicking to see the actual URL. If it looks suspicious, do not click.
+5/28/2026 7:35:24 PM: BOT: 
+5/28/2026 7:35:24 PM: BOT: Type 'more' for additional phishing protection tips!
+5/28/2026 7:35:43 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:43 PM: BOT: TOPIC: SCAM AWARENESS
+5/28/2026 7:35:43 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:43 PM: BOT: Take a breath. Scammers create urgency. Legitimate companies give you time to verify information.
+5/28/2026 7:35:43 PM: BOT: 
+5/28/2026 7:35:43 PM: BOT: Type 'more' for additional scam prevention tips!
+5/28/2026 7:35:48 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:48 PM: BOT: TOPIC: VPN PROTECTION
+5/28/2026 7:35:48 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:48 PM: BOT: In South Africa, ISPs can legally monitor your traffic. A VPN prevents them from seeing what websites you visit.
+5/28/2026 7:35:48 PM: BOT: 
+5/28/2026 7:35:48 PM: BOT: Type 'more' for additional VPN information!
+5/28/2026 7:35:50 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:50 PM: BOT: TOPIC: PASSWORD SAFETY
+5/28/2026 7:35:50 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:50 PM: BOT: Avoid personal information. Your birthday, pet's name, or 'password123' are the first things hackers try. Get creative.
+5/28/2026 7:35:50 PM: BOT: 
+5/28/2026 7:35:50 PM: BOT: Type 'more' for additional password safety tips!
+5/28/2026 7:35:51 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:51 PM: BOT: TOPIC: PHISHING PROTECTION
+5/28/2026 7:35:51 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:35:51 PM: BOT: Look for spelling mistakes and poor grammar - legitimate companies proofread their communications.
+5/28/2026 7:35:51 PM: BOT: 
+5/28/2026 7:35:51 PM: BOT: Type 'more' for additional phishing protection tips!
+5/28/2026 7:36:01 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:36:01 PM: BOT: TOPIC: PHISHING PROTECTION
+5/28/2026 7:36:01 PM: BOT: ════════════════════════════════════════════════════════
+5/28/2026 7:36:01 PM: BOT: When in doubt, go directly to the website by typing the URL yourself rather than clicking email links.
+5/28/2026 7:36:01 PM: BOT: 
+5/28/2026 7:36:01 PM: BOT: Type 'more' for additional phishing protection tips!
+5/29/2026 10:29:33 AM: BOT: ════════════════════════════════════════════════════════
+5/29/2026 10:29:33 AM: BOT: Hello Lutho! I am your Cybersecurity Awareness Assistant.
+5/29/2026 10:29:33 AM: BOT: ════════════════════════════════════════════════════════
+5/29/2026 10:29:33 AM: BOT: 
+5/29/2026 10:29:33 AM: BOT: Click a topic button below or type 'help' to get started!
+5/29/2026 10:29:33 AM: BOT: 
+5/29/2026 10:29:45 AM: USER: hello
+5/29/2026 10:29:45 AM: BOT: Hello Lutho! How can I help you stay safe online today?
+5/29/2026 10:29:56 AM: USER: Password
+5/29/2026 10:29:56 AM: BOT: PASSWORD SAFETY: Create a passphrase: Combine 4 random words like 'PurpleDinosaurCoffeeTable' - it is long and easy to remember.
+5/29/2026 10:30:13 AM: USER: malware
+5/29/2026 10:30:13 AM: BOT: MALWARE PREVENTION: Cryptojacking malware uses your computer to mine cryptocurrency without your knowledge. Watch for slow performance.
+5/29/2026 10:52:16 AM: BOT: ════════════════════════════════════════════════════════
+5/29/2026 10:52:16 AM: BOT: Hello lutho! I am your Cybersecurity Awareness Assistant.
+5/29/2026 10:52:16 AM: BOT: ════════════════════════════════════════════════════════
+5/29/2026 10:52:16 AM: BOT: 
+5/29/2026 10:52:16 AM: BOT: Click a topic button below or type 'help' to get started!
+5/29/2026 10:52:16 AM: BOT: 

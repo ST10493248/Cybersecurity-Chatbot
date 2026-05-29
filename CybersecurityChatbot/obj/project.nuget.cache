@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4v4W6CeseAk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\CybersecurityChatbot\\CyberSecurityChatbot\\CyberSecurityChatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.speech\\10.0.8\\system.speech.10.0.8.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.windows.extensions\\10.0.8\\system.windows.extensions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
